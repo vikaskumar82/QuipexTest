@@ -1,0 +1,152 @@
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\appsettings.json
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\CompanyProject.exe
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\CompanyProject.deps.json
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\CompanyProject.runtimeconfig.json
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\CompanyProject.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\CompanyProject.pdb
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\Humanizer.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\obj\Debug\net7.0\CompanyProject.csproj.AssemblyReference.cache
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\obj\Debug\net7.0\CompanyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\obj\Debug\net7.0\CompanyProject.AssemblyInfoInputs.cache
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\obj\Debug\net7.0\CompanyProject.AssemblyInfo.cs
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\obj\Debug\net7.0\CompanyProject.csproj.CoreCompileInputs.cache
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\obj\Debug\net7.0\CompanyProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\obj\Debug\net7.0\CompanyProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\obj\Debug\net7.0\staticwebassets\msbuild.CompanyProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\obj\Debug\net7.0\staticwebassets\msbuild.build.CompanyProject.props
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CompanyProject.props
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CompanyProject.props
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\obj\Debug\net7.0\scopedcss\bundle\CompanyProject.styles.css
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\obj\Debug\net7.0\CompanyProject.csproj.CopyComplete
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\obj\Debug\net7.0\CompanyProject.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\obj\Debug\net7.0\refint\CompanyProject.dll
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\obj\Debug\net7.0\CompanyProject.pdb
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\obj\Debug\net7.0\CompanyProject.genruntimeconfig.cache
+C:\Users\SHABIR ASHRAFI\Desktop\CompanyProject\CompanyProject\obj\Debug\net7.0\ref\CompanyProject.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\appsettings.Development.json
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\appsettings.json
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\CompanyProject.exe
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\CompanyProject.deps.json
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\CompanyProject.runtimeconfig.json
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\CompanyProject.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\CompanyProject.pdb
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\Azure.Core.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\Azure.Identity.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\Humanizer.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\System.CodeDom.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\obj\Debug\net7.0\CompanyProject.csproj.AssemblyReference.cache
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\obj\Debug\net7.0\CompanyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\obj\Debug\net7.0\CompanyProject.AssemblyInfoInputs.cache
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\obj\Debug\net7.0\CompanyProject.AssemblyInfo.cs
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\obj\Debug\net7.0\CompanyProject.csproj.CoreCompileInputs.cache
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\obj\Debug\net7.0\CompanyProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\obj\Debug\net7.0\CompanyProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\obj\Debug\net7.0\staticwebassets.build.json
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\obj\Debug\net7.0\staticwebassets.development.json
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\obj\Debug\net7.0\staticwebassets\msbuild.CompanyProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\obj\Debug\net7.0\staticwebassets\msbuild.build.CompanyProject.props
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CompanyProject.props
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CompanyProject.props
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\obj\Debug\net7.0\scopedcss\bundle\CompanyProject.styles.css
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\obj\Debug\net7.0\CompanyProject.csproj.CopyComplete
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\obj\Debug\net7.0\CompanyProject.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\obj\Debug\net7.0\refint\CompanyProject.dll
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\obj\Debug\net7.0\CompanyProject.pdb
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\obj\Debug\net7.0\CompanyProject.genruntimeconfig.cache
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\CompanyProject\obj\Debug\net7.0\ref\CompanyProject.dll

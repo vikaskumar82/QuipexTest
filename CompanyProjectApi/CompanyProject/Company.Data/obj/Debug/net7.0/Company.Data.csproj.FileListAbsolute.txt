@@ -1,0 +1,5 @@
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\Company.Data\obj\Debug\net7.0\Company.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\Company.Data\obj\Debug\net7.0\Company.Data.AssemblyInfoInputs.cache
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\Company.Data\obj\Debug\net7.0\Company.Data.AssemblyInfo.cs
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\Company.Data\obj\Debug\net7.0\Company.Data.csproj.CoreCompileInputs.cache
+C:\Projects\Quipex\CompanyProjectApi\CompanyProject\Company.Data\obj\Debug\net7.0\Company.Data.csproj.AssemblyReference.cache
